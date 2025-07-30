@@ -15,3 +15,15 @@ Here is a list:
 
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 Another edit
+
+# my-first-repo-summer-2025
+
+## Usage
+
+Play a game of rock, paper scissors:
+
+```sh
+python app/rps.py
+# if this file imports from other local py files:
+python -m app.rps
+```
